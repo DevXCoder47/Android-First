@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">firstproject</string>
+    <string name="km">Km</string>
+    <string name="mi">mi</string>
+    <string name="Mi">Mi</string>
+    <string name="result_number">result number</string>
+    <string name="convert">Convert</string>
+    <string name="enter_number">enter number</string>
+    <string name="r">r</string>
+    <string name="S">S</string>
+    <string name="enter_radius">enter radius</string>
+    <string name="area">area</string>
+</resources>
